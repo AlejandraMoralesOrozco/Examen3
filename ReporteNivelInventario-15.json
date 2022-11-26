@@ -1,0 +1,4546 @@
+{
+  "type": "NivelInventario",
+  "id": null,
+  "clase": null,
+  "name": null,
+  "cantidad": null,
+  "estatus": "sinEstatus",
+  "minimoNivel": -1,
+  "items": {
+    "100": {
+      "type": "Partida",
+      "id": "100",
+      "clase": "Partida",
+      "name": "Mat Oficina",
+      "cantidad": "Disponible",
+      "estatus": "",
+      "minimoNivel": -1,
+      "items": {
+        "110": {
+          "type": "Subpartida",
+          "id": "110",
+          "clase": "Subpartida",
+          "name": "Sillas",
+          "cantidad": "",
+          "estatus": "Disponible",
+          "minimoNivel": -1,
+          "items": {
+            "111": {
+              "type": "Categoria",
+              "id": "111",
+              "clase": "Categoria",
+              "name": "Silla ejecutiva clase 1",
+              "cantidad": "12",
+              "estatus": "Retiro",
+              "minimoNivel": -1,
+              "items": {
+                "1110": {
+                  "type": "InfoItem",
+                  "id": "1110",
+                  "clase": "Item",
+                  "name": "Silla ejecutiva clase 1",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion0",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "1118": {
+                  "type": "InfoItem",
+                  "id": "1118",
+                  "clase": "Item",
+                  "name": "Silla ejecutiva clase 1",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion8",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "1117": {
+                  "type": "InfoItem",
+                  "id": "1117",
+                  "clase": "Item",
+                  "name": "Silla ejecutiva clase 1",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion7",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "1116": {
+                  "type": "InfoItem",
+                  "id": "1116",
+                  "clase": "Item",
+                  "name": "Silla ejecutiva clase 1",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion6",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "1115": {
+                  "type": "InfoItem",
+                  "id": "1115",
+                  "clase": "Item",
+                  "name": "Silla ejecutiva clase 1",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion5",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "1114": {
+                  "type": "InfoItem",
+                  "id": "1114",
+                  "clase": "Item",
+                  "name": "Silla ejecutiva clase 1",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion4",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "1113": {
+                  "type": "InfoItem",
+                  "id": "1113",
+                  "clase": "Item",
+                  "name": "Silla ejecutiva clase 1",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion3",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "1112": {
+                  "type": "InfoItem",
+                  "id": "1112",
+                  "clase": "Item",
+                  "name": "Silla ejecutiva clase 1",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion2",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "1111": {
+                  "type": "InfoItem",
+                  "id": "1111",
+                  "clase": "Item",
+                  "name": "Silla ejecutiva clase 1",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion1",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "11111": {
+                  "type": "InfoItem",
+                  "id": "11111",
+                  "clase": "Item",
+                  "name": "Silla ejecutiva clase 1",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion11",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "11110": {
+                  "type": "InfoItem",
+                  "id": "11110",
+                  "clase": "Item",
+                  "name": "Silla ejecutiva clase 1",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion10",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "111-1": {
+                  "type": "InfoItem",
+                  "id": "111-1",
+                  "clase": "Item",
+                  "name": "Silla ejecutiva clase 1",
+                  "cantidad": "1",
+                  "estatus": "Retiro",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "1A1-1",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": "1000",
+                    "clase": "Lote",
+                    "name": "Lote 1",
+                    "cantidad": "6",
+                    "estatus": "Ingresado",
+                    "fechaIngreso": "10-10-2020",
+                    "proveedor": {
+                      "id": "700",
+                      "clase": null,
+                      "name": "Lote 1",
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": 2
+                },
+                "111-0": {
+                  "type": "InfoItem",
+                  "id": "111-0",
+                  "clase": "Item",
+                  "name": "Silla ejecutiva clase 1",
+                  "cantidad": "1",
+                  "estatus": "Retiro",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "1A1-0",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": "1000",
+                    "clase": "Lote",
+                    "name": "Lote 1",
+                    "cantidad": "6",
+                    "estatus": "Ingresado",
+                    "fechaIngreso": "10-10-2020",
+                    "proveedor": {
+                      "id": "700",
+                      "clase": null,
+                      "name": "Lote 1",
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": 2
+                },
+                "1119": {
+                  "type": "InfoItem",
+                  "id": "1119",
+                  "clase": "Item",
+                  "name": "Silla ejecutiva clase 1",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion9",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                }
+              },
+              "ubicacion": {
+                "posicion": "",
+                "estatus": "SinEstatus"
+              },
+              "lote": {
+                "id": null,
+                "clase": null,
+                "name": null,
+                "cantidad": null,
+                "estatus": "sinEstatus",
+                "fechaIngreso": "",
+                "proveedor": {
+                  "id": null,
+                  "clase": null,
+                  "name": null,
+                  "cantidad": null,
+                  "estatus": "sinEstatus"
+                }
+              },
+              "cantidadRetiro": 2
+            },
+            "112": {
+              "type": "Categoria",
+              "id": "112",
+              "clase": "Categoria",
+              "name": "Silla ejecutiva clase 2",
+              "cantidad": "7",
+              "estatus": "Disponible",
+              "minimoNivel": 5,
+              "items": {
+                "112-4": {
+                  "type": "InfoItem",
+                  "id": "112-4",
+                  "clase": "Item",
+                  "name": "Silla ejecutiva clase 2",
+                  "cantidad": "1",
+                  "estatus": "Disponible",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "1A2-4",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": "2000",
+                    "clase": "Lote",
+                    "name": "Lote 2",
+                    "cantidad": "7",
+                    "estatus": "Ingresado",
+                    "fechaIngreso": "10-10-2020",
+                    "proveedor": {
+                      "id": "701",
+                      "clase": null,
+                      "name": "Lote 2",
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "112-3": {
+                  "type": "InfoItem",
+                  "id": "112-3",
+                  "clase": "Item",
+                  "name": "Silla ejecutiva clase 2",
+                  "cantidad": "1",
+                  "estatus": "Disponible",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "1A2-3",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": "2000",
+                    "clase": "Lote",
+                    "name": "Lote 2",
+                    "cantidad": "7",
+                    "estatus": "Ingresado",
+                    "fechaIngreso": "10-10-2020",
+                    "proveedor": {
+                      "id": "701",
+                      "clase": null,
+                      "name": "Lote 2",
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "112-6": {
+                  "type": "InfoItem",
+                  "id": "112-6",
+                  "clase": "Item",
+                  "name": "Silla ejecutiva clase 2",
+                  "cantidad": "1",
+                  "estatus": "Disponible",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "1A2-6",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": "2000",
+                    "clase": "Lote",
+                    "name": "Lote 2",
+                    "cantidad": "7",
+                    "estatus": "Ingresado",
+                    "fechaIngreso": "10-10-2020",
+                    "proveedor": {
+                      "id": "701",
+                      "clase": null,
+                      "name": "Lote 2",
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "112-5": {
+                  "type": "InfoItem",
+                  "id": "112-5",
+                  "clase": "Item",
+                  "name": "Silla ejecutiva clase 2",
+                  "cantidad": "1",
+                  "estatus": "Disponible",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "1A2-5",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": "2000",
+                    "clase": "Lote",
+                    "name": "Lote 2",
+                    "cantidad": "7",
+                    "estatus": "Ingresado",
+                    "fechaIngreso": "10-10-2020",
+                    "proveedor": {
+                      "id": "701",
+                      "clase": null,
+                      "name": "Lote 2",
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "112-0": {
+                  "type": "InfoItem",
+                  "id": "112-0",
+                  "clase": "Item",
+                  "name": "Silla ejecutiva clase 2",
+                  "cantidad": "1",
+                  "estatus": "Disponible",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "1A2-0",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": "2000",
+                    "clase": "Lote",
+                    "name": "Lote 2",
+                    "cantidad": "7",
+                    "estatus": "Ingresado",
+                    "fechaIngreso": "10-10-2020",
+                    "proveedor": {
+                      "id": "701",
+                      "clase": null,
+                      "name": "Lote 2",
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "112-2": {
+                  "type": "InfoItem",
+                  "id": "112-2",
+                  "clase": "Item",
+                  "name": "Silla ejecutiva clase 2",
+                  "cantidad": "1",
+                  "estatus": "Disponible",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "1A2-2",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": "2000",
+                    "clase": "Lote",
+                    "name": "Lote 2",
+                    "cantidad": "7",
+                    "estatus": "Ingresado",
+                    "fechaIngreso": "10-10-2020",
+                    "proveedor": {
+                      "id": "701",
+                      "clase": null,
+                      "name": "Lote 2",
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "112-1": {
+                  "type": "InfoItem",
+                  "id": "112-1",
+                  "clase": "Item",
+                  "name": "Silla ejecutiva clase 2",
+                  "cantidad": "1",
+                  "estatus": "Disponible",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "1A2-1",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": "2000",
+                    "clase": "Lote",
+                    "name": "Lote 2",
+                    "cantidad": "7",
+                    "estatus": "Ingresado",
+                    "fechaIngreso": "10-10-2020",
+                    "proveedor": {
+                      "id": "701",
+                      "clase": null,
+                      "name": "Lote 2",
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                }
+              },
+              "ubicacion": {
+                "posicion": "SinPosicion",
+                "estatus": "SinEstatus"
+              },
+              "lote": {
+                "id": null,
+                "clase": null,
+                "name": null,
+                "cantidad": null,
+                "estatus": "sinEstatus",
+                "fechaIngreso": "",
+                "proveedor": {
+                  "id": null,
+                  "clase": null,
+                  "name": null,
+                  "cantidad": null,
+                  "estatus": "sinEstatus"
+                }
+              },
+              "cantidadRetiro": -1
+            },
+            "113": {
+              "type": "Categoria",
+              "id": "113",
+              "clase": "Categoria",
+              "name": "Silla secretarial clase 1",
+              "cantidad": "16",
+              "estatus": "Retiro",
+              "minimoNivel": -1,
+              "items": {
+                "1132": {
+                  "type": "InfoItem",
+                  "id": "1132",
+                  "clase": "Item",
+                  "name": "Silla secretarial clase 1",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion2",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "1131": {
+                  "type": "InfoItem",
+                  "id": "1131",
+                  "clase": "Item",
+                  "name": "Silla secretarial clase 1",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion1",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "1130": {
+                  "type": "InfoItem",
+                  "id": "1130",
+                  "clase": "Item",
+                  "name": "Silla secretarial clase 1",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion0",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "113-2": {
+                  "type": "InfoItem",
+                  "id": "113-2",
+                  "clase": "Item",
+                  "name": "Silla secretarial clase 1",
+                  "cantidad": "1",
+                  "estatus": "Retiro",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "1A3-2",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": "3000",
+                    "clase": "Lote",
+                    "name": "Lote 3",
+                    "cantidad": "8",
+                    "estatus": "Ingresado",
+                    "fechaIngreso": "10-10-2020",
+                    "proveedor": {
+                      "id": "703",
+                      "clase": null,
+                      "name": "Lote 3",
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": 3
+                },
+                "1139": {
+                  "type": "InfoItem",
+                  "id": "1139",
+                  "clase": "Item",
+                  "name": "Silla secretarial clase 1",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion9",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "1138": {
+                  "type": "InfoItem",
+                  "id": "1138",
+                  "clase": "Item",
+                  "name": "Silla secretarial clase 1",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion8",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "1137": {
+                  "type": "InfoItem",
+                  "id": "1137",
+                  "clase": "Item",
+                  "name": "Silla secretarial clase 1",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion7",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "1136": {
+                  "type": "InfoItem",
+                  "id": "1136",
+                  "clase": "Item",
+                  "name": "Silla secretarial clase 1",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion6",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "1135": {
+                  "type": "InfoItem",
+                  "id": "1135",
+                  "clase": "Item",
+                  "name": "Silla secretarial clase 1",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion5",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "1134": {
+                  "type": "InfoItem",
+                  "id": "1134",
+                  "clase": "Item",
+                  "name": "Silla secretarial clase 1",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion4",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "1133": {
+                  "type": "InfoItem",
+                  "id": "1133",
+                  "clase": "Item",
+                  "name": "Silla secretarial clase 1",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion3",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "11311": {
+                  "type": "InfoItem",
+                  "id": "11311",
+                  "clase": "Item",
+                  "name": "Silla secretarial clase 1",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion11",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "11310": {
+                  "type": "InfoItem",
+                  "id": "11310",
+                  "clase": "Item",
+                  "name": "Silla secretarial clase 1",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion10",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "11313": {
+                  "type": "InfoItem",
+                  "id": "11313",
+                  "clase": "Item",
+                  "name": "Silla secretarial clase 1",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion13",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "11312": {
+                  "type": "InfoItem",
+                  "id": "11312",
+                  "clase": "Item",
+                  "name": "Silla secretarial clase 1",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion12",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "113-1": {
+                  "type": "InfoItem",
+                  "id": "113-1",
+                  "clase": "Item",
+                  "name": "Silla secretarial clase 1",
+                  "cantidad": "1",
+                  "estatus": "Retiro",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "1A3-1",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": "3000",
+                    "clase": "Lote",
+                    "name": "Lote 3",
+                    "cantidad": "8",
+                    "estatus": "Ingresado",
+                    "fechaIngreso": "10-10-2020",
+                    "proveedor": {
+                      "id": "703",
+                      "clase": null,
+                      "name": "Lote 3",
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": 3
+                },
+                "11315": {
+                  "type": "InfoItem",
+                  "id": "11315",
+                  "clase": "Item",
+                  "name": "Silla secretarial clase 1",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion15",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "113-0": {
+                  "type": "InfoItem",
+                  "id": "113-0",
+                  "clase": "Item",
+                  "name": "Silla secretarial clase 1",
+                  "cantidad": "1",
+                  "estatus": "Retiro",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "1A3-0",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": "3000",
+                    "clase": "Lote",
+                    "name": "Lote 3",
+                    "cantidad": "8",
+                    "estatus": "Ingresado",
+                    "fechaIngreso": "10-10-2020",
+                    "proveedor": {
+                      "id": "703",
+                      "clase": null,
+                      "name": "Lote 3",
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": 3
+                },
+                "11314": {
+                  "type": "InfoItem",
+                  "id": "11314",
+                  "clase": "Item",
+                  "name": "Silla secretarial clase 1",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion14",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                }
+              },
+              "ubicacion": {
+                "posicion": "SinPosicion",
+                "estatus": "SinEstatus"
+              },
+              "lote": {
+                "id": null,
+                "clase": null,
+                "name": null,
+                "cantidad": null,
+                "estatus": "sinEstatus",
+                "fechaIngreso": "",
+                "proveedor": {
+                  "id": null,
+                  "clase": null,
+                  "name": null,
+                  "cantidad": null,
+                  "estatus": "sinEstatus"
+                }
+              },
+              "cantidadRetiro": 3
+            },
+            "114": {
+              "type": "Categoria",
+              "id": "114",
+              "clase": "Categoria",
+              "name": "Silla secretarial clase 2",
+              "cantidad": "9",
+              "estatus": "Disponible",
+              "minimoNivel": 5,
+              "items": {
+                "114-2": {
+                  "type": "InfoItem",
+                  "id": "114-2",
+                  "clase": "Item",
+                  "name": "Silla secretarial clase 2",
+                  "cantidad": "1",
+                  "estatus": "Disponible",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "1A4-2",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": "4000",
+                    "clase": "Lote",
+                    "name": "Lote 4",
+                    "cantidad": "9",
+                    "estatus": "Ingresado",
+                    "fechaIngreso": "10-10-2020",
+                    "proveedor": {
+                      "id": "704",
+                      "clase": null,
+                      "name": "Lote 4",
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "114-1": {
+                  "type": "InfoItem",
+                  "id": "114-1",
+                  "clase": "Item",
+                  "name": "Silla secretarial clase 2",
+                  "cantidad": "1",
+                  "estatus": "Disponible",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "1A4-1",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": "4000",
+                    "clase": "Lote",
+                    "name": "Lote 4",
+                    "cantidad": "9",
+                    "estatus": "Ingresado",
+                    "fechaIngreso": "10-10-2020",
+                    "proveedor": {
+                      "id": "704",
+                      "clase": null,
+                      "name": "Lote 4",
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "114-4": {
+                  "type": "InfoItem",
+                  "id": "114-4",
+                  "clase": "Item",
+                  "name": "Silla secretarial clase 2",
+                  "cantidad": "1",
+                  "estatus": "Disponible",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "1A4-4",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": "4000",
+                    "clase": "Lote",
+                    "name": "Lote 4",
+                    "cantidad": "9",
+                    "estatus": "Ingresado",
+                    "fechaIngreso": "10-10-2020",
+                    "proveedor": {
+                      "id": "704",
+                      "clase": null,
+                      "name": "Lote 4",
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "114-3": {
+                  "type": "InfoItem",
+                  "id": "114-3",
+                  "clase": "Item",
+                  "name": "Silla secretarial clase 2",
+                  "cantidad": "1",
+                  "estatus": "Disponible",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "1A4-3",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": "4000",
+                    "clase": "Lote",
+                    "name": "Lote 4",
+                    "cantidad": "9",
+                    "estatus": "Ingresado",
+                    "fechaIngreso": "10-10-2020",
+                    "proveedor": {
+                      "id": "704",
+                      "clase": null,
+                      "name": "Lote 4",
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "114-6": {
+                  "type": "InfoItem",
+                  "id": "114-6",
+                  "clase": "Item",
+                  "name": "Silla secretarial clase 2",
+                  "cantidad": "1",
+                  "estatus": "Disponible",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "1A4-6",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": "4000",
+                    "clase": "Lote",
+                    "name": "Lote 4",
+                    "cantidad": "9",
+                    "estatus": "Ingresado",
+                    "fechaIngreso": "10-10-2020",
+                    "proveedor": {
+                      "id": "704",
+                      "clase": null,
+                      "name": "Lote 4",
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "114-5": {
+                  "type": "InfoItem",
+                  "id": "114-5",
+                  "clase": "Item",
+                  "name": "Silla secretarial clase 2",
+                  "cantidad": "1",
+                  "estatus": "Disponible",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "1A4-5",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": "4000",
+                    "clase": "Lote",
+                    "name": "Lote 4",
+                    "cantidad": "9",
+                    "estatus": "Ingresado",
+                    "fechaIngreso": "10-10-2020",
+                    "proveedor": {
+                      "id": "704",
+                      "clase": null,
+                      "name": "Lote 4",
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "114-8": {
+                  "type": "InfoItem",
+                  "id": "114-8",
+                  "clase": "Item",
+                  "name": "Silla secretarial clase 2",
+                  "cantidad": "1",
+                  "estatus": "Disponible",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "1A4-8",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": "4000",
+                    "clase": "Lote",
+                    "name": "Lote 4",
+                    "cantidad": "9",
+                    "estatus": "Ingresado",
+                    "fechaIngreso": "10-10-2020",
+                    "proveedor": {
+                      "id": "704",
+                      "clase": null,
+                      "name": "Lote 4",
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "114-7": {
+                  "type": "InfoItem",
+                  "id": "114-7",
+                  "clase": "Item",
+                  "name": "Silla secretarial clase 2",
+                  "cantidad": "1",
+                  "estatus": "Disponible",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "1A4-7",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": "4000",
+                    "clase": "Lote",
+                    "name": "Lote 4",
+                    "cantidad": "9",
+                    "estatus": "Ingresado",
+                    "fechaIngreso": "10-10-2020",
+                    "proveedor": {
+                      "id": "704",
+                      "clase": null,
+                      "name": "Lote 4",
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "114-0": {
+                  "type": "InfoItem",
+                  "id": "114-0",
+                  "clase": "Item",
+                  "name": "Silla secretarial clase 2",
+                  "cantidad": "1",
+                  "estatus": "Disponible",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "1A4-0",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": "4000",
+                    "clase": "Lote",
+                    "name": "Lote 4",
+                    "cantidad": "9",
+                    "estatus": "Ingresado",
+                    "fechaIngreso": "10-10-2020",
+                    "proveedor": {
+                      "id": "704",
+                      "clase": null,
+                      "name": "Lote 4",
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                }
+              },
+              "ubicacion": {
+                "posicion": "SinPosicion",
+                "estatus": "SinEstatus"
+              },
+              "lote": {
+                "id": null,
+                "clase": null,
+                "name": null,
+                "cantidad": null,
+                "estatus": "sinEstatus",
+                "fechaIngreso": "",
+                "proveedor": {
+                  "id": null,
+                  "clase": null,
+                  "name": null,
+                  "cantidad": null,
+                  "estatus": "sinEstatus"
+                }
+              },
+              "cantidadRetiro": -1
+            },
+            "115": {
+              "type": "Categoria",
+              "id": "115",
+              "clase": "Categoria",
+              "name": "Silla de espera ",
+              "cantidad": "10",
+              "estatus": "Retiro",
+              "minimoNivel": -1,
+              "items": {
+                "1154": {
+                  "type": "InfoItem",
+                  "id": "1154",
+                  "clase": "Item",
+                  "name": "Silla de espera ",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion4",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "1153": {
+                  "type": "InfoItem",
+                  "id": "1153",
+                  "clase": "Item",
+                  "name": "Silla de espera ",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion3",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "1152": {
+                  "type": "InfoItem",
+                  "id": "1152",
+                  "clase": "Item",
+                  "name": "Silla de espera ",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion2",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "1151": {
+                  "type": "InfoItem",
+                  "id": "1151",
+                  "clase": "Item",
+                  "name": "Silla de espera ",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion1",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "1150": {
+                  "type": "InfoItem",
+                  "id": "1150",
+                  "clase": "Item",
+                  "name": "Silla de espera ",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion0",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "115-1": {
+                  "type": "InfoItem",
+                  "id": "115-1",
+                  "clase": "Item",
+                  "name": "Silla de espera ",
+                  "cantidad": "1",
+                  "estatus": "Retiro",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "1A5-1",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": "5000",
+                    "clase": "Lote",
+                    "name": "Lote 5",
+                    "cantidad": "5",
+                    "estatus": "Ingresado",
+                    "fechaIngreso": "10-10-2020",
+                    "proveedor": {
+                      "id": "705",
+                      "clase": null,
+                      "name": "Lote 5",
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": 4
+                },
+                "115-0": {
+                  "type": "InfoItem",
+                  "id": "115-0",
+                  "clase": "Item",
+                  "name": "Silla de espera ",
+                  "cantidad": "1",
+                  "estatus": "Retiro",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "1A5-0",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": "5000",
+                    "clase": "Lote",
+                    "name": "Lote 5",
+                    "cantidad": "5",
+                    "estatus": "Ingresado",
+                    "fechaIngreso": "10-10-2020",
+                    "proveedor": {
+                      "id": "705",
+                      "clase": null,
+                      "name": "Lote 5",
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": 4
+                },
+                "115-3": {
+                  "type": "InfoItem",
+                  "id": "115-3",
+                  "clase": "Item",
+                  "name": "Silla de espera ",
+                  "cantidad": "1",
+                  "estatus": "Retiro",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "1A5-3",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": "5000",
+                    "clase": "Lote",
+                    "name": "Lote 5",
+                    "cantidad": "5",
+                    "estatus": "Ingresado",
+                    "fechaIngreso": "10-10-2020",
+                    "proveedor": {
+                      "id": "705",
+                      "clase": null,
+                      "name": "Lote 5",
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": 4
+                },
+                "115-2": {
+                  "type": "InfoItem",
+                  "id": "115-2",
+                  "clase": "Item",
+                  "name": "Silla de espera ",
+                  "cantidad": "1",
+                  "estatus": "Retiro",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "1A5-2",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": "5000",
+                    "clase": "Lote",
+                    "name": "Lote 5",
+                    "cantidad": "5",
+                    "estatus": "Ingresado",
+                    "fechaIngreso": "10-10-2020",
+                    "proveedor": {
+                      "id": "705",
+                      "clase": null,
+                      "name": "Lote 5",
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": 4
+                },
+                "1159": {
+                  "type": "InfoItem",
+                  "id": "1159",
+                  "clase": "Item",
+                  "name": "Silla de espera ",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion9",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "1158": {
+                  "type": "InfoItem",
+                  "id": "1158",
+                  "clase": "Item",
+                  "name": "Silla de espera ",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion8",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "1157": {
+                  "type": "InfoItem",
+                  "id": "1157",
+                  "clase": "Item",
+                  "name": "Silla de espera ",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion7",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "1156": {
+                  "type": "InfoItem",
+                  "id": "1156",
+                  "clase": "Item",
+                  "name": "Silla de espera ",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion6",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "1155": {
+                  "type": "InfoItem",
+                  "id": "1155",
+                  "clase": "Item",
+                  "name": "Silla de espera ",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion5",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                }
+              },
+              "ubicacion": {
+                "posicion": "SinPosicion",
+                "estatus": "SinEstatus"
+              },
+              "lote": {
+                "id": null,
+                "clase": null,
+                "name": null,
+                "cantidad": null,
+                "estatus": "sinEstatus",
+                "fechaIngreso": "",
+                "proveedor": {
+                  "id": null,
+                  "clase": null,
+                  "name": null,
+                  "cantidad": null,
+                  "estatus": "sinEstatus"
+                }
+              },
+              "cantidadRetiro": 4
+            }
+          },
+          "ubicacion": {
+            "posicion": "",
+            "estatus": "SinEstatus"
+          },
+          "lote": {
+            "id": null,
+            "clase": null,
+            "name": null,
+            "cantidad": null,
+            "estatus": "sinEstatus",
+            "fechaIngreso": "",
+            "proveedor": {
+              "id": null,
+              "clase": null,
+              "name": null,
+              "cantidad": null,
+              "estatus": "sinEstatus"
+            }
+          },
+          "cantidadRetiro": -1
+        },
+        "130": {
+          "type": "Subpartida",
+          "id": "130",
+          "clase": "Subpartida",
+          "name": "Escritorios",
+          "cantidad": "",
+          "estatus": "Disponible",
+          "minimoNivel": -1,
+          "items": {
+            "132": {
+              "type": "Categoria",
+              "id": "132",
+              "clase": "Categoria",
+              "name": "Escritorio ejecutiva clase 2",
+              "cantidad": "8",
+              "estatus": "Disponible",
+              "minimoNivel": 5,
+              "items": {
+                "132-7": {
+                  "type": "InfoItem",
+                  "id": "132-7",
+                  "clase": "Item",
+                  "name": "Escritorio ejecutiva clase 2",
+                  "cantidad": "1",
+                  "estatus": "Disponible",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "1A2-7",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": "8000",
+                    "clase": "Lote",
+                    "name": "Lote 8",
+                    "cantidad": "8",
+                    "estatus": "Ingresado",
+                    "fechaIngreso": "10-11-2021",
+                    "proveedor": {
+                      "id": "801",
+                      "clase": null,
+                      "name": "Lote 8",
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "132-5": {
+                  "type": "InfoItem",
+                  "id": "132-5",
+                  "clase": "Item",
+                  "name": "Escritorio ejecutiva clase 2",
+                  "cantidad": "1",
+                  "estatus": "Disponible",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "1A2-5",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": "8000",
+                    "clase": "Lote",
+                    "name": "Lote 8",
+                    "cantidad": "8",
+                    "estatus": "Ingresado",
+                    "fechaIngreso": "10-11-2021",
+                    "proveedor": {
+                      "id": "801",
+                      "clase": null,
+                      "name": "Lote 8",
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "132-6": {
+                  "type": "InfoItem",
+                  "id": "132-6",
+                  "clase": "Item",
+                  "name": "Escritorio ejecutiva clase 2",
+                  "cantidad": "1",
+                  "estatus": "Disponible",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "1A2-6",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": "8000",
+                    "clase": "Lote",
+                    "name": "Lote 8",
+                    "cantidad": "8",
+                    "estatus": "Ingresado",
+                    "fechaIngreso": "10-11-2021",
+                    "proveedor": {
+                      "id": "801",
+                      "clase": null,
+                      "name": "Lote 8",
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "132-0": {
+                  "type": "InfoItem",
+                  "id": "132-0",
+                  "clase": "Item",
+                  "name": "Escritorio ejecutiva clase 2",
+                  "cantidad": "1",
+                  "estatus": "Disponible",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "1A2-0",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": "8000",
+                    "clase": "Lote",
+                    "name": "Lote 8",
+                    "cantidad": "8",
+                    "estatus": "Ingresado",
+                    "fechaIngreso": "10-11-2021",
+                    "proveedor": {
+                      "id": "801",
+                      "clase": null,
+                      "name": "Lote 8",
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "132-3": {
+                  "type": "InfoItem",
+                  "id": "132-3",
+                  "clase": "Item",
+                  "name": "Escritorio ejecutiva clase 2",
+                  "cantidad": "1",
+                  "estatus": "Disponible",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "1A2-3",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": "8000",
+                    "clase": "Lote",
+                    "name": "Lote 8",
+                    "cantidad": "8",
+                    "estatus": "Ingresado",
+                    "fechaIngreso": "10-11-2021",
+                    "proveedor": {
+                      "id": "801",
+                      "clase": null,
+                      "name": "Lote 8",
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "132-4": {
+                  "type": "InfoItem",
+                  "id": "132-4",
+                  "clase": "Item",
+                  "name": "Escritorio ejecutiva clase 2",
+                  "cantidad": "1",
+                  "estatus": "Disponible",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "1A2-4",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": "8000",
+                    "clase": "Lote",
+                    "name": "Lote 8",
+                    "cantidad": "8",
+                    "estatus": "Ingresado",
+                    "fechaIngreso": "10-11-2021",
+                    "proveedor": {
+                      "id": "801",
+                      "clase": null,
+                      "name": "Lote 8",
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "132-1": {
+                  "type": "InfoItem",
+                  "id": "132-1",
+                  "clase": "Item",
+                  "name": "Escritorio ejecutiva clase 2",
+                  "cantidad": "1",
+                  "estatus": "Disponible",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "1A2-1",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": "8000",
+                    "clase": "Lote",
+                    "name": "Lote 8",
+                    "cantidad": "8",
+                    "estatus": "Ingresado",
+                    "fechaIngreso": "10-11-2021",
+                    "proveedor": {
+                      "id": "801",
+                      "clase": null,
+                      "name": "Lote 8",
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "132-2": {
+                  "type": "InfoItem",
+                  "id": "132-2",
+                  "clase": "Item",
+                  "name": "Escritorio ejecutiva clase 2",
+                  "cantidad": "1",
+                  "estatus": "Disponible",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "1A2-2",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": "8000",
+                    "clase": "Lote",
+                    "name": "Lote 8",
+                    "cantidad": "8",
+                    "estatus": "Ingresado",
+                    "fechaIngreso": "10-11-2021",
+                    "proveedor": {
+                      "id": "801",
+                      "clase": null,
+                      "name": "Lote 8",
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                }
+              },
+              "ubicacion": {
+                "posicion": "SinPosicion",
+                "estatus": "SinEstatus"
+              },
+              "lote": {
+                "id": null,
+                "clase": null,
+                "name": null,
+                "cantidad": null,
+                "estatus": "sinEstatus",
+                "fechaIngreso": "",
+                "proveedor": {
+                  "id": null,
+                  "clase": null,
+                  "name": null,
+                  "cantidad": null,
+                  "estatus": "sinEstatus"
+                }
+              },
+              "cantidadRetiro": -1
+            },
+            "133": {
+              "type": "Categoria",
+              "id": "133",
+              "clase": "Categoria",
+              "name": "Escritorio secretarial clase 1",
+              "cantidad": "18",
+              "estatus": "Retiro",
+              "minimoNivel": -1,
+              "items": {
+                "1330": {
+                  "type": "InfoItem",
+                  "id": "1330",
+                  "clase": "Item",
+                  "name": "Escritorio secretarial clase 1",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion0",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "1338": {
+                  "type": "InfoItem",
+                  "id": "1338",
+                  "clase": "Item",
+                  "name": "Escritorio secretarial clase 1",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion8",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "1337": {
+                  "type": "InfoItem",
+                  "id": "1337",
+                  "clase": "Item",
+                  "name": "Escritorio secretarial clase 1",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion7",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "1336": {
+                  "type": "InfoItem",
+                  "id": "1336",
+                  "clase": "Item",
+                  "name": "Escritorio secretarial clase 1",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion6",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "1335": {
+                  "type": "InfoItem",
+                  "id": "1335",
+                  "clase": "Item",
+                  "name": "Escritorio secretarial clase 1",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion5",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "1334": {
+                  "type": "InfoItem",
+                  "id": "1334",
+                  "clase": "Item",
+                  "name": "Escritorio secretarial clase 1",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion4",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "1333": {
+                  "type": "InfoItem",
+                  "id": "1333",
+                  "clase": "Item",
+                  "name": "Escritorio secretarial clase 1",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion3",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "1332": {
+                  "type": "InfoItem",
+                  "id": "1332",
+                  "clase": "Item",
+                  "name": "Escritorio secretarial clase 1",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion2",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "1331": {
+                  "type": "InfoItem",
+                  "id": "1331",
+                  "clase": "Item",
+                  "name": "Escritorio secretarial clase 1",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion1",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "13312": {
+                  "type": "InfoItem",
+                  "id": "13312",
+                  "clase": "Item",
+                  "name": "Escritorio secretarial clase 1",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion12",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "13313": {
+                  "type": "InfoItem",
+                  "id": "13313",
+                  "clase": "Item",
+                  "name": "Escritorio secretarial clase 1",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion13",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "13310": {
+                  "type": "InfoItem",
+                  "id": "13310",
+                  "clase": "Item",
+                  "name": "Escritorio secretarial clase 1",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion10",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "13311": {
+                  "type": "InfoItem",
+                  "id": "13311",
+                  "clase": "Item",
+                  "name": "Escritorio secretarial clase 1",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion11",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "133-2": {
+                  "type": "InfoItem",
+                  "id": "133-2",
+                  "clase": "Item",
+                  "name": "Escritorio secretarial clase 1",
+                  "cantidad": "1",
+                  "estatus": "Retiro",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "1A3-2",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": "9000",
+                    "clase": "Lote",
+                    "name": "Lote 9",
+                    "cantidad": "9",
+                    "estatus": "Ingresado",
+                    "fechaIngreso": "10-11-2021",
+                    "proveedor": {
+                      "id": "803",
+                      "clase": null,
+                      "name": "Lote 9",
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": 3
+                },
+                "13316": {
+                  "type": "InfoItem",
+                  "id": "13316",
+                  "clase": "Item",
+                  "name": "Escritorio secretarial clase 1",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion16",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "13317": {
+                  "type": "InfoItem",
+                  "id": "13317",
+                  "clase": "Item",
+                  "name": "Escritorio secretarial clase 1",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion17",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "133-0": {
+                  "type": "InfoItem",
+                  "id": "133-0",
+                  "clase": "Item",
+                  "name": "Escritorio secretarial clase 1",
+                  "cantidad": "1",
+                  "estatus": "Retiro",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "1A3-0",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": "9000",
+                    "clase": "Lote",
+                    "name": "Lote 9",
+                    "cantidad": "9",
+                    "estatus": "Ingresado",
+                    "fechaIngreso": "10-11-2021",
+                    "proveedor": {
+                      "id": "803",
+                      "clase": null,
+                      "name": "Lote 9",
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": 3
+                },
+                "13314": {
+                  "type": "InfoItem",
+                  "id": "13314",
+                  "clase": "Item",
+                  "name": "Escritorio secretarial clase 1",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion14",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "133-1": {
+                  "type": "InfoItem",
+                  "id": "133-1",
+                  "clase": "Item",
+                  "name": "Escritorio secretarial clase 1",
+                  "cantidad": "1",
+                  "estatus": "Retiro",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "1A3-1",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": "9000",
+                    "clase": "Lote",
+                    "name": "Lote 9",
+                    "cantidad": "9",
+                    "estatus": "Ingresado",
+                    "fechaIngreso": "10-11-2021",
+                    "proveedor": {
+                      "id": "803",
+                      "clase": null,
+                      "name": "Lote 9",
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": 3
+                },
+                "1339": {
+                  "type": "InfoItem",
+                  "id": "1339",
+                  "clase": "Item",
+                  "name": "Escritorio secretarial clase 1",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion9",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "13315": {
+                  "type": "InfoItem",
+                  "id": "13315",
+                  "clase": "Item",
+                  "name": "Escritorio secretarial clase 1",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion15",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                }
+              },
+              "ubicacion": {
+                "posicion": "SinPosicion",
+                "estatus": "SinEstatus"
+              },
+              "lote": {
+                "id": null,
+                "clase": null,
+                "name": null,
+                "cantidad": null,
+                "estatus": "sinEstatus",
+                "fechaIngreso": "",
+                "proveedor": {
+                  "id": null,
+                  "clase": null,
+                  "name": null,
+                  "cantidad": null,
+                  "estatus": "sinEstatus"
+                }
+              },
+              "cantidadRetiro": 3
+            },
+            "134": {
+              "type": "Categoria",
+              "id": "134",
+              "clase": "Categoria",
+              "name": "Escritorio secretarial clase 2",
+              "cantidad": "5",
+              "estatus": "Disponible",
+              "minimoNivel": 5,
+              "items": {
+                "134-3": {
+                  "type": "InfoItem",
+                  "id": "134-3",
+                  "clase": "Item",
+                  "name": "Escritorio secretarial clase 2",
+                  "cantidad": "1",
+                  "estatus": "Disponible",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "1A4-3",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": "10000",
+                    "clase": "Lote",
+                    "name": "Lote 10",
+                    "cantidad": "5",
+                    "estatus": "Ingresado",
+                    "fechaIngreso": "10-11-2021",
+                    "proveedor": {
+                      "id": "804",
+                      "clase": null,
+                      "name": "Lote 10",
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "134-4": {
+                  "type": "InfoItem",
+                  "id": "134-4",
+                  "clase": "Item",
+                  "name": "Escritorio secretarial clase 2",
+                  "cantidad": "1",
+                  "estatus": "Disponible",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "1A4-4",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": "10000",
+                    "clase": "Lote",
+                    "name": "Lote 10",
+                    "cantidad": "5",
+                    "estatus": "Ingresado",
+                    "fechaIngreso": "10-11-2021",
+                    "proveedor": {
+                      "id": "804",
+                      "clase": null,
+                      "name": "Lote 10",
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "134-1": {
+                  "type": "InfoItem",
+                  "id": "134-1",
+                  "clase": "Item",
+                  "name": "Escritorio secretarial clase 2",
+                  "cantidad": "1",
+                  "estatus": "Disponible",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "1A4-1",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": "10000",
+                    "clase": "Lote",
+                    "name": "Lote 10",
+                    "cantidad": "5",
+                    "estatus": "Ingresado",
+                    "fechaIngreso": "10-11-2021",
+                    "proveedor": {
+                      "id": "804",
+                      "clase": null,
+                      "name": "Lote 10",
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "134-2": {
+                  "type": "InfoItem",
+                  "id": "134-2",
+                  "clase": "Item",
+                  "name": "Escritorio secretarial clase 2",
+                  "cantidad": "1",
+                  "estatus": "Disponible",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "1A4-2",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": "10000",
+                    "clase": "Lote",
+                    "name": "Lote 10",
+                    "cantidad": "5",
+                    "estatus": "Ingresado",
+                    "fechaIngreso": "10-11-2021",
+                    "proveedor": {
+                      "id": "804",
+                      "clase": null,
+                      "name": "Lote 10",
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "134-0": {
+                  "type": "InfoItem",
+                  "id": "134-0",
+                  "clase": "Item",
+                  "name": "Escritorio secretarial clase 2",
+                  "cantidad": "1",
+                  "estatus": "Disponible",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "1A4-0",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": "10000",
+                    "clase": "Lote",
+                    "name": "Lote 10",
+                    "cantidad": "5",
+                    "estatus": "Ingresado",
+                    "fechaIngreso": "10-11-2021",
+                    "proveedor": {
+                      "id": "804",
+                      "clase": null,
+                      "name": "Lote 10",
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                }
+              },
+              "ubicacion": {
+                "posicion": "SinPosicion",
+                "estatus": "SinEstatus"
+              },
+              "lote": {
+                "id": null,
+                "clase": null,
+                "name": null,
+                "cantidad": null,
+                "estatus": "sinEstatus",
+                "fechaIngreso": "",
+                "proveedor": {
+                  "id": null,
+                  "clase": null,
+                  "name": null,
+                  "cantidad": null,
+                  "estatus": "sinEstatus"
+                }
+              },
+              "cantidadRetiro": -1
+            },
+            "135": {
+              "type": "Categoria",
+              "id": "135",
+              "clase": "Categoria",
+              "name": "Escritorio de espera ",
+              "cantidad": "12",
+              "estatus": "Retiro",
+              "minimoNivel": -1,
+              "items": {
+                "1352": {
+                  "type": "InfoItem",
+                  "id": "1352",
+                  "clase": "Item",
+                  "name": "Escritorio de espera ",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion2",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "1351": {
+                  "type": "InfoItem",
+                  "id": "1351",
+                  "clase": "Item",
+                  "name": "Escritorio de espera ",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion1",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "1350": {
+                  "type": "InfoItem",
+                  "id": "1350",
+                  "clase": "Item",
+                  "name": "Escritorio de espera ",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion0",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "1359": {
+                  "type": "InfoItem",
+                  "id": "1359",
+                  "clase": "Item",
+                  "name": "Escritorio de espera ",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion9",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "135-2": {
+                  "type": "InfoItem",
+                  "id": "135-2",
+                  "clase": "Item",
+                  "name": "Escritorio de espera ",
+                  "cantidad": "1",
+                  "estatus": "Retiro",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "1A5-2",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": "11000",
+                    "clase": "Lote",
+                    "name": "Lote 11",
+                    "cantidad": "6",
+                    "estatus": "Ingresado",
+                    "fechaIngreso": "10-11-2021",
+                    "proveedor": {
+                      "id": "805",
+                      "clase": null,
+                      "name": "Lote 11",
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": 4
+                },
+                "1358": {
+                  "type": "InfoItem",
+                  "id": "1358",
+                  "clase": "Item",
+                  "name": "Escritorio de espera ",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion8",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "135-3": {
+                  "type": "InfoItem",
+                  "id": "135-3",
+                  "clase": "Item",
+                  "name": "Escritorio de espera ",
+                  "cantidad": "1",
+                  "estatus": "Retiro",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "1A5-3",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": "11000",
+                    "clase": "Lote",
+                    "name": "Lote 11",
+                    "cantidad": "6",
+                    "estatus": "Ingresado",
+                    "fechaIngreso": "10-11-2021",
+                    "proveedor": {
+                      "id": "805",
+                      "clase": null,
+                      "name": "Lote 11",
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": 4
+                },
+                "1357": {
+                  "type": "InfoItem",
+                  "id": "1357",
+                  "clase": "Item",
+                  "name": "Escritorio de espera ",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion7",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "1356": {
+                  "type": "InfoItem",
+                  "id": "1356",
+                  "clase": "Item",
+                  "name": "Escritorio de espera ",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion6",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "1355": {
+                  "type": "InfoItem",
+                  "id": "1355",
+                  "clase": "Item",
+                  "name": "Escritorio de espera ",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion5",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "1354": {
+                  "type": "InfoItem",
+                  "id": "1354",
+                  "clase": "Item",
+                  "name": "Escritorio de espera ",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion4",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "1353": {
+                  "type": "InfoItem",
+                  "id": "1353",
+                  "clase": "Item",
+                  "name": "Escritorio de espera ",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion3",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "13510": {
+                  "type": "InfoItem",
+                  "id": "13510",
+                  "clase": "Item",
+                  "name": "Escritorio de espera ",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion10",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "13511": {
+                  "type": "InfoItem",
+                  "id": "13511",
+                  "clase": "Item",
+                  "name": "Escritorio de espera ",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion11",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "135-0": {
+                  "type": "InfoItem",
+                  "id": "135-0",
+                  "clase": "Item",
+                  "name": "Escritorio de espera ",
+                  "cantidad": "1",
+                  "estatus": "Retiro",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "1A5-0",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": "11000",
+                    "clase": "Lote",
+                    "name": "Lote 11",
+                    "cantidad": "6",
+                    "estatus": "Ingresado",
+                    "fechaIngreso": "10-11-2021",
+                    "proveedor": {
+                      "id": "805",
+                      "clase": null,
+                      "name": "Lote 11",
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": 4
+                },
+                "135-1": {
+                  "type": "InfoItem",
+                  "id": "135-1",
+                  "clase": "Item",
+                  "name": "Escritorio de espera ",
+                  "cantidad": "1",
+                  "estatus": "Retiro",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "1A5-1",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": "11000",
+                    "clase": "Lote",
+                    "name": "Lote 11",
+                    "cantidad": "6",
+                    "estatus": "Ingresado",
+                    "fechaIngreso": "10-11-2021",
+                    "proveedor": {
+                      "id": "805",
+                      "clase": null,
+                      "name": "Lote 11",
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": 4
+                }
+              },
+              "ubicacion": {
+                "posicion": "SinPosicion",
+                "estatus": "SinEstatus"
+              },
+              "lote": {
+                "id": null,
+                "clase": null,
+                "name": null,
+                "cantidad": null,
+                "estatus": "sinEstatus",
+                "fechaIngreso": "",
+                "proveedor": {
+                  "id": null,
+                  "clase": null,
+                  "name": null,
+                  "cantidad": null,
+                  "estatus": "sinEstatus"
+                }
+              },
+              "cantidadRetiro": 4
+            },
+            "131": {
+              "type": "Categoria",
+              "id": "131",
+              "clase": "Categoria",
+              "name": "Escritorio ejecutiva clase 1",
+              "cantidad": "14",
+              "estatus": "Retiro",
+              "minimoNivel": -1,
+              "items": {
+                "13110": {
+                  "type": "InfoItem",
+                  "id": "13110",
+                  "clase": "Item",
+                  "name": "Escritorio ejecutiva clase 1",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion10",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "13111": {
+                  "type": "InfoItem",
+                  "id": "13111",
+                  "clase": "Item",
+                  "name": "Escritorio ejecutiva clase 1",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion11",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "1316": {
+                  "type": "InfoItem",
+                  "id": "1316",
+                  "clase": "Item",
+                  "name": "Escritorio ejecutiva clase 1",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion6",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "1315": {
+                  "type": "InfoItem",
+                  "id": "1315",
+                  "clase": "Item",
+                  "name": "Escritorio ejecutiva clase 1",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion5",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "1314": {
+                  "type": "InfoItem",
+                  "id": "1314",
+                  "clase": "Item",
+                  "name": "Escritorio ejecutiva clase 1",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion4",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "1313": {
+                  "type": "InfoItem",
+                  "id": "1313",
+                  "clase": "Item",
+                  "name": "Escritorio ejecutiva clase 1",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion3",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "1312": {
+                  "type": "InfoItem",
+                  "id": "1312",
+                  "clase": "Item",
+                  "name": "Escritorio ejecutiva clase 1",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion2",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "1311": {
+                  "type": "InfoItem",
+                  "id": "1311",
+                  "clase": "Item",
+                  "name": "Escritorio ejecutiva clase 1",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion1",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "1310": {
+                  "type": "InfoItem",
+                  "id": "1310",
+                  "clase": "Item",
+                  "name": "Escritorio ejecutiva clase 1",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion0",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "131-0": {
+                  "type": "InfoItem",
+                  "id": "131-0",
+                  "clase": "Item",
+                  "name": "Escritorio ejecutiva clase 1",
+                  "cantidad": "1",
+                  "estatus": "Retiro",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "1A1-0",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": "2000",
+                    "clase": "Lote",
+                    "name": "Lote 7",
+                    "cantidad": "7",
+                    "estatus": "Ingresado",
+                    "fechaIngreso": "10-11-2021",
+                    "proveedor": {
+                      "id": "800",
+                      "clase": null,
+                      "name": "Lote 7",
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": 2
+                },
+                "131-1": {
+                  "type": "InfoItem",
+                  "id": "131-1",
+                  "clase": "Item",
+                  "name": "Escritorio ejecutiva clase 1",
+                  "cantidad": "1",
+                  "estatus": "Retiro",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "1A1-1",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": "2000",
+                    "clase": "Lote",
+                    "name": "Lote 7",
+                    "cantidad": "7",
+                    "estatus": "Ingresado",
+                    "fechaIngreso": "10-11-2021",
+                    "proveedor": {
+                      "id": "800",
+                      "clase": null,
+                      "name": "Lote 7",
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": 2
+                },
+                "13112": {
+                  "type": "InfoItem",
+                  "id": "13112",
+                  "clase": "Item",
+                  "name": "Escritorio ejecutiva clase 1",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion12",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "13113": {
+                  "type": "InfoItem",
+                  "id": "13113",
+                  "clase": "Item",
+                  "name": "Escritorio ejecutiva clase 1",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion13",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "1319": {
+                  "type": "InfoItem",
+                  "id": "1319",
+                  "clase": "Item",
+                  "name": "Escritorio ejecutiva clase 1",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion9",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "1318": {
+                  "type": "InfoItem",
+                  "id": "1318",
+                  "clase": "Item",
+                  "name": "Escritorio ejecutiva clase 1",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion8",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "1317": {
+                  "type": "InfoItem",
+                  "id": "1317",
+                  "clase": "Item",
+                  "name": "Escritorio ejecutiva clase 1",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "SinPosicion7",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": null,
+                    "clase": null,
+                    "name": null,
+                    "cantidad": null,
+                    "estatus": "sinEstatus",
+                    "fechaIngreso": "",
+                    "proveedor": {
+                      "id": null,
+                      "clase": null,
+                      "name": null,
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                }
+              },
+              "ubicacion": {
+                "posicion": "",
+                "estatus": "SinEstatus"
+              },
+              "lote": {
+                "id": null,
+                "clase": null,
+                "name": null,
+                "cantidad": null,
+                "estatus": "sinEstatus",
+                "fechaIngreso": "",
+                "proveedor": {
+                  "id": null,
+                  "clase": null,
+                  "name": null,
+                  "cantidad": null,
+                  "estatus": "sinEstatus"
+                }
+              },
+              "cantidadRetiro": 2
+            }
+          },
+          "ubicacion": {
+            "posicion": "",
+            "estatus": "SinEstatus"
+          },
+          "lote": {
+            "id": null,
+            "clase": null,
+            "name": null,
+            "cantidad": null,
+            "estatus": "sinEstatus",
+            "fechaIngreso": "",
+            "proveedor": {
+              "id": null,
+              "clase": null,
+              "name": null,
+              "cantidad": null,
+              "estatus": "sinEstatus"
+            }
+          },
+          "cantidadRetiro": -1
+        },
+        "120": {
+          "type": "Subpartida",
+          "id": "120",
+          "clase": "Subpartida",
+          "name": "Mesas",
+          "cantidad": "",
+          "estatus": "Disponible",
+          "minimoNivel": -1,
+          "items": {
+            "121": {
+              "type": "Categoria",
+              "id": "121",
+              "clase": "Categoria",
+              "name": "Mesa ejecutivo clase 1",
+              "cantidad": "6",
+              "estatus": "Disponible",
+              "minimoNivel": 5,
+              "items": {
+                "121-5": {
+                  "type": "InfoItem",
+                  "id": "121-5",
+                  "clase": "Item",
+                  "name": "Mesa ejecutivo clase 1",
+                  "cantidad": "1",
+                  "estatus": "Disponible",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "1A1-5",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": "6000",
+                    "clase": "Lote",
+                    "name": "Lote 6",
+                    "cantidad": "6",
+                    "estatus": "Ingresado",
+                    "fechaIngreso": "10-10-2020",
+                    "proveedor": {
+                      "id": "706",
+                      "clase": null,
+                      "name": "Lote 6",
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "121-0": {
+                  "type": "InfoItem",
+                  "id": "121-0",
+                  "clase": "Item",
+                  "name": "Mesa ejecutivo clase 1",
+                  "cantidad": "1",
+                  "estatus": "Disponible",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "1A1-0",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": "6000",
+                    "clase": "Lote",
+                    "name": "Lote 6",
+                    "cantidad": "6",
+                    "estatus": "Ingresado",
+                    "fechaIngreso": "10-10-2020",
+                    "proveedor": {
+                      "id": "706",
+                      "clase": null,
+                      "name": "Lote 6",
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "121-2": {
+                  "type": "InfoItem",
+                  "id": "121-2",
+                  "clase": "Item",
+                  "name": "Mesa ejecutivo clase 1",
+                  "cantidad": "1",
+                  "estatus": "Disponible",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "1A1-2",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": "6000",
+                    "clase": "Lote",
+                    "name": "Lote 6",
+                    "cantidad": "6",
+                    "estatus": "Ingresado",
+                    "fechaIngreso": "10-10-2020",
+                    "proveedor": {
+                      "id": "706",
+                      "clase": null,
+                      "name": "Lote 6",
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "121-1": {
+                  "type": "InfoItem",
+                  "id": "121-1",
+                  "clase": "Item",
+                  "name": "Mesa ejecutivo clase 1",
+                  "cantidad": "1",
+                  "estatus": "Disponible",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "1A1-1",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": "6000",
+                    "clase": "Lote",
+                    "name": "Lote 6",
+                    "cantidad": "6",
+                    "estatus": "Ingresado",
+                    "fechaIngreso": "10-10-2020",
+                    "proveedor": {
+                      "id": "706",
+                      "clase": null,
+                      "name": "Lote 6",
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "121-4": {
+                  "type": "InfoItem",
+                  "id": "121-4",
+                  "clase": "Item",
+                  "name": "Mesa ejecutivo clase 1",
+                  "cantidad": "1",
+                  "estatus": "Disponible",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "1A1-4",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": "6000",
+                    "clase": "Lote",
+                    "name": "Lote 6",
+                    "cantidad": "6",
+                    "estatus": "Ingresado",
+                    "fechaIngreso": "10-10-2020",
+                    "proveedor": {
+                      "id": "706",
+                      "clase": null,
+                      "name": "Lote 6",
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                },
+                "121-3": {
+                  "type": "InfoItem",
+                  "id": "121-3",
+                  "clase": "Item",
+                  "name": "Mesa ejecutivo clase 1",
+                  "cantidad": "1",
+                  "estatus": "Disponible",
+                  "minimoNivel": -1,
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "1A1-3",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": {
+                    "id": "6000",
+                    "clase": "Lote",
+                    "name": "Lote 6",
+                    "cantidad": "6",
+                    "estatus": "Ingresado",
+                    "fechaIngreso": "10-10-2020",
+                    "proveedor": {
+                      "id": "706",
+                      "clase": null,
+                      "name": "Lote 6",
+                      "cantidad": null,
+                      "estatus": "sinEstatus"
+                    }
+                  },
+                  "cantidadRetiro": -1
+                }
+              },
+              "ubicacion": {
+                "posicion": "SinPosicion",
+                "estatus": "SinEstatus"
+              },
+              "lote": {
+                "id": null,
+                "clase": null,
+                "name": null,
+                "cantidad": null,
+                "estatus": "sinEstatus",
+                "fechaIngreso": "",
+                "proveedor": {
+                  "id": null,
+                  "clase": null,
+                  "name": null,
+                  "cantidad": null,
+                  "estatus": "sinEstatus"
+                }
+              },
+              "cantidadRetiro": -1
+            }
+          },
+          "ubicacion": {
+            "posicion": "",
+            "estatus": "SinEstatus"
+          },
+          "lote": {
+            "id": null,
+            "clase": null,
+            "name": null,
+            "cantidad": null,
+            "estatus": "sinEstatus",
+            "fechaIngreso": "",
+            "proveedor": {
+              "id": null,
+              "clase": null,
+              "name": null,
+              "cantidad": null,
+              "estatus": "sinEstatus"
+            }
+          },
+          "cantidadRetiro": -1
+        }
+      },
+      "ubicacion": {
+        "posicion": "",
+        "estatus": "SinEstatus"
+      },
+      "lote": {
+        "id": null,
+        "clase": null,
+        "name": null,
+        "cantidad": null,
+        "estatus": "sinEstatus",
+        "fechaIngreso": "",
+        "proveedor": {
+          "id": null,
+          "clase": null,
+          "name": null,
+          "cantidad": null,
+          "estatus": "sinEstatus"
+        }
+      },
+      "cantidadRetiro": -1
+    }
+  },
+  "ubicacion": {
+    "posicion": "SinPosicion",
+    "estatus": "SinEstatus"
+  },
+  "lote": {
+    "id": null,
+    "clase": null,
+    "name": null,
+    "cantidad": null,
+    "estatus": "sinEstatus",
+    "fechaIngreso": "",
+    "proveedor": {
+      "id": null,
+      "clase": null,
+      "name": null,
+      "cantidad": null,
+      "estatus": "sinEstatus"
+    }
+  },
+  "cantidadRetiro": -1
+}
